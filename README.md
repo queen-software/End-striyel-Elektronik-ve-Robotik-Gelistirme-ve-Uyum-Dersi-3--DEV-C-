@@ -11,3 +11,4 @@ V = I * R        I = V / R
 temp mail = sana bir tane mail verir
 <img width="1519" height="781" alt="image" src="https://github.com/user-attachments/assets/82c8d427-17dc-41eb-8dd4-51337516f7ef" />
 <img width="747" height="430" alt="image" src="https://github.com/user-attachments/assets/c0ef0854-7e3f-4b6a-929e-0db6063c8271" />
+
